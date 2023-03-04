@@ -1,0 +1,74 @@
+
+.styling {
+background-color: #0065c3;
+height: 100px;
+margin-top: -10px;
+margin-bottom: -10px;
+}
+.li-style {
+   margin-left: 20px;
+}
+.ghf-2{
+    font-size: 1.1rem !important;
+    color: white !important;
+    font-weight: 600 !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dhf-1 {
+    background:  blue;
+}
+
+.icon-style {
+font-size: 20px;
+}
+
+.nav-item {
+    padding: 20px !important;
+}
+
+.btn-style {
+background-color: #0065c3 !important;
+border: 2px solid white !important;
+margin-right: 80px;
+width: 225px;
+color: white !important;
+border-radius: 20px !important;
+}
+
+.btn-style:hover{
+color: #0065c3 !important;
+background-color: white !important;
+transition: 0.98 !important;
+} 
+
+/* section started  */
+.bgcolor {
+    height: 1200px;
+    background-color: black;
+}
+/* .col1 {
+    height: 800px;
+    border: 1px solid white;
+    width: 100px;
+}
+.col2 {
+    height: 800px;
+    border: 1px solid white;
+    width: 100px;
+} */
+.gsdf-2 {
+    width: 150%;
+    margin-left: -100px;
+}
+.ertg-1{
+    margin-top: 180px;
+    width: 400px;
+}
+.eerue-1 {
+margin-top: 40px;
+}
+.hye-1{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+/* section ended  */
